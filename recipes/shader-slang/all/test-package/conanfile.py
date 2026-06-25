@@ -1,7 +1,7 @@
 from conan import ConanFile
 from conan.tools.cmake import CMake, cmake_layout
 from conan.tools.build import can_run
-
+import os
 
 class SlangTestPackageConan(ConanFile):
     settings = "os", "arch", "compiler", "build_type"
