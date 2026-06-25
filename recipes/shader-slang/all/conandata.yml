@@ -1,4 +1,4 @@
 sources:
-  "v2026.11 ":
+  "2026.11 ":
     url: "https://github.com/shader-slang/slang/archive/refs/tags/v2026.11.tar.gz"
     sha256: "04c06ef699d28365d63fab2cec45580c3a850094578877d185b1880c0b4955f8"
